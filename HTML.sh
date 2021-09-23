@@ -328,6 +328,6 @@ display: none;
 </DOCTYPE>
 <div class='animasi'>
 LOGIN
-cp -f script.html /sdcard
+cp -f $nama.html /sdcard
 echo
 echo -e " [✓] Nama Sc $nama.html | Tersimpan di sdcard"
