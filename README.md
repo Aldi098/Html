@@ -7,18 +7,18 @@
 # install
 ```php
 
-- pkg install git
+$ pkg install git
 
-- pkg install nano
+$ pkg install nano
 
-- pkg install bash
+$ pkg install bash
 
-- pkg install figlet
+$ pkg install figlet
 
-- git clone https://github.com/Aldi098/Html
+$ git clone https://github.com/Aldi098/Html
 
-- cd Html
+$ cd Html
 
-- Bash HTML.sh
+$ Bash HTML.sh
 
 ```
